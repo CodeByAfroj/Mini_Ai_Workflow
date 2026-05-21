@@ -37,7 +37,7 @@ Open a terminal and navigate to the backend directory:
 cd backend
 ```
 
-Create a virtual environment (optional but recommended):
+Create a virtual environment:
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
