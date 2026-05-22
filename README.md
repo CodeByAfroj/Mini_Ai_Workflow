@@ -1,4 +1,4 @@
-# React Flow Pipeline Builder
+# Mini Ai Work Flow Pipeline Builder
 
 A full-stack application that provides a node-based visual editor for constructing pipelines and workflows. Built with **React** (using React Flow) on the frontend and **FastAPI** on the backend.
 
